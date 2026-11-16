@@ -1,0 +1,10 @@
+Command: C:\Espressif\python_env\idf5.5_py3.10_env\Scripts\python.exe C:\Espressif\frameworks\esp-idf-v5.5.3\tools/idf_monitor.py -p COM8 -b 115200 --toolchain-prefix riscv32-esp-elf- --target esp32c5 --revision 100 --decode-panic backtrace C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build13\esp32_c5_wifi_scanner.elf C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build13\bootloader\bootloader.elf --force-color -m 'C:\Espressif\python_env\idf5.5_py3.10_env\Scripts\python.exe' 'C:\Espressif\frameworks\esp-idf-v5.5.3\tools\idf.py' '-B' 'build13' '-p' 'COM8'
+--- WARNING: GDB cannot open serial ports accessed as COMx
+--- NOTE: Using \\.\COM8 instead...
+--- esp-idf-monitor 1.10.0 on \\.\COM8 115200
+--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+--- ERROR: Connection to \\.\COM8 failed. Available ports:
+COM8
+COM3
+COM7
+

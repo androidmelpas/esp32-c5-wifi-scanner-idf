@@ -1,0 +1,8 @@
+Command: ninja all
+[1/4] C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build13\esp-idf\esptool_py && C:\Espressif\python_env\idf5.5_py3.10_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.5.3/components/partition_table/check_sizes.py --offset 0x8000 partition --type app C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/partition_table/partition-table.bin C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/esp32_c5_wifi_scanner.bin"
+esp32_c5_wifi_scanner.bin binary size 0xd47f0 bytes. Smallest app partition is 0x100000 bytes. 0x2b810 bytes (17%) free.
+[2/4] Performing build step for 'bootloader'
+[1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build13\bootloader\esp-idf\esptool_py && C:\Espressif\python_env\idf5.5_py3.10_env\Scripts\python.exe C:/Espressif/frameworks/esp-idf-v5.5.3/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x2000 C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader/bootloader.bin"
+Bootloader binary size 0x56c0 bytes. 0x940 bytes (10%) free.
+[3/4] No install step for 'bootloader'
+[4/4] Completed 'bootloader'

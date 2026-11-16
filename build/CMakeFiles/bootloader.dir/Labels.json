@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

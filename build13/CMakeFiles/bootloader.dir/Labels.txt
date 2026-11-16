@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/CMakeFiles/bootloader
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/CMakeFiles/bootloader.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/CMakeFiles/bootloader-complete.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build13/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

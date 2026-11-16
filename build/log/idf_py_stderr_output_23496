@@ -1,0 +1,30 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\python_env\idf5.5_py3.10_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=1 C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf
+CMake Error at C:/Espressif/tools/cmake/3.30.2/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "C:/Espressif/tools/riscv32-esp-elf/esp-14.2.0_20251107/riscv32-esp-elf/bin/riscv32-esp-elf-gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: 'C:/Users/visio/.copilot/chats/d0c7559a-23dd-4c6d-b2dc-4f9ec395c800/esp32-c5-wifi-scanner-idf/build/CMakeFiles/CMakeScratch/TryCompile-9aqjv1'
+    
+    Run Build Command(s): C:/Espressif/tools/ninja/1.12.1/ninja.exe -v cmTC_b715f
+    [1/2] C:\Espressif\tools\riscv32-esp-elf\esp-14.2.0_20251107\riscv32-esp-elf\bin\riscv32-esp-elf-gcc.exe   -march=rv32imac_zicsr_zifencei -o CMakeFiles\cmTC_b715f.dir\testCCompiler.c.obj -c C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build\CMakeFiles\CMakeScratch\TryCompile-9aqjv1\testCCompiler.c
+    FAILED: CMakeFiles/cmTC_b715f.dir/testCCompiler.c.obj 
+    C:\Espressif\tools\riscv32-esp-elf\esp-14.2.0_20251107\riscv32-esp-elf\bin\riscv32-esp-elf-gcc.exe   -march=rv32imac_zicsr_zifencei -o CMakeFiles\cmTC_b715f.dir\testCCompiler.c.obj -c C:\Users\visio\.copilot\chats\d0c7559a-23dd-4c6d-b2dc-4f9ec395c800\esp32-c5-wifi-scanner-idf\build\CMakeFiles\CMakeScratch\TryCompile-9aqjv1\testCCompiler.c
+    riscv32-esp-elf-gcc.exe: fatal error: cannot execute 'as': CreateProcess: No such file or directory
+    compilation terminated.
+    ninja: build stopped: subcommand failed.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.5.3/tools/cmake/project.cmake:590 (__project)
+  CMakeLists.txt:4 (project)
+
+
